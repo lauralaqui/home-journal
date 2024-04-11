@@ -27,7 +27,7 @@
   <p align="center">
     A record of places I've called home built with React and deployed with Netlify
     <br />
-    <a href="https://home-journal.netlify.app/" target="_blank">View Demo</a>
+    <a href="https://home-journal.netlify.app/" target="_blank" rel="noopener noreferrer">View Demo</a>
   </p>
 </div>
 
@@ -55,6 +55,8 @@ Requirements:
   npm install
   npm run watch
   ```
+
+<a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/dxoYK8bxqiJr/globe-africa">Globe</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
