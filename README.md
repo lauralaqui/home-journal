@@ -21,22 +21,21 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./images/globe-icon.png" alt="globe icon">
   </a>
 
   <p align="center">
     A record of places I've called home built with React and deployed with Netlify
     <br />
-    <a href="https://www.netlify.com/" target="_blank">View Demo</a>
+    <a href="https://home-journal.netlify.app/" target="_blank">View Demo</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![a home journal screen shot](./images/homejournalscreenshot.png)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-A Scrimba project customized to be a record of places I've called home.
+The initial version of this project was created as part of a Scrimba tutorial. 
 
 Requirements:
 
