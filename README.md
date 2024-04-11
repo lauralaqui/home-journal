@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./images/globe-icon.png" alt="globe icon">
+    <img src="./images/globe.png" alt="globe icon">
   </a>
 
   <p align="center">
