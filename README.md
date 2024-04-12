@@ -36,8 +36,6 @@
   npm run watch
   ```
 
-<a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/dxoYK8bxqiJr/globe-africa">Globe</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![a home journal screen shot](./images/homejournalscreenshot.png)
@@ -54,6 +52,8 @@ Requirements:
 <br>
 
 [![React][React.js]][React-url]
+
+<a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/dxoYK8bxqiJr/globe-africa">Globe</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
