@@ -18,11 +18,8 @@
 -->
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="./images/globe.png" alt="globe icon">
-  </a>
 
   <p align="center">
     A record of places I've called home built with React and deployed with Netlify
@@ -35,7 +32,7 @@
 ## About The Project
 ![a home journal screen shot](./images/homejournalscreenshot.png)
 
-The initial version of this project was created as part of a Scrimba tutorial. 
+The initial version of this project was created as part of a <a href="https://scrimba.com/" target="_blank" rel="noopener noreferrer"> Scrimba</a> tutorial. 
 
 Requirements:
 
