@@ -33,7 +33,7 @@
 
   ```sh
   npm install
-  npm run watch
+  npm run build
   ```
 
 <!-- ABOUT THE PROJECT -->
